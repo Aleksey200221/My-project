@@ -1,0 +1,6 @@
+<svg viewBox="0 0 202 147" fill="none" xmlns="http://www.w3.org/2000/svg">
+<a href="#" class="page-header__logo">
+  <svg class="page-header__logo-icon" width="202" height="147">
+    <use xlink:href="assets/icons/symbols.svg#logo"></use>
+  </svg>
+</a>
